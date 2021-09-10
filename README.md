@@ -1,5 +1,5 @@
 # Hey 👋
-# My-Portfolio website: [Sujit Hona](http://www.sujithona.com.np)
+# Check my Portfolio: [Sujit Hona](http://www.sujithona.com.np)
 <!--
 **Hona-08/hona-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
